@@ -1,0 +1,5 @@
+E:\git-repo\Saml\Saml\bin\Debug\Saml.Token.exe.config
+E:\git-repo\Saml\Saml\bin\Debug\Saml.Token.exe
+E:\git-repo\Saml\Saml\bin\Debug\Saml.Token.pdb
+E:\git-repo\Saml\Saml\obj\Debug\Saml.Token.exe
+E:\git-repo\Saml\Saml\obj\Debug\Saml.Token.pdb
